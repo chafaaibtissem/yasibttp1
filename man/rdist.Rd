@@ -4,7 +4,7 @@
 \alias{rdist}
 \title{statistiques descriptives}
 \usage{
-rdist(x, p)
+rdist(x, p,n)
 }
 \arguments{
 \item{x}{numeric vector representing the values of the random variable}
